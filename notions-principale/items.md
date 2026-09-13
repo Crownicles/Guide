@@ -26,7 +26,7 @@ Il en va de même pour leur puissance. Cependant, la puissance d'un équipement 
 
 <picture><source srcset="https://2159345893-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MH1fCvNZ7zikrWd7dJj-2584506019%2Fuploads%2FVJNFEm1BhK8qH6qznLsT%2Finventaire_sombre.png?alt=media&#x26;token=4902366f-e5ef-43f5-8ba1-124ee83a61d5" media="(prefers-color-scheme: dark)"><img src="https://2159345893-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MH1fCvNZ7zikrWd7dJj-2584506019%2Fuploads%2FhWypeIf984gC3Af0n4PL%2Finventaire_clair.png?alt=media&#x26;token=9258de13-91ff-46f3-bbf6-0213871db33c" alt="Ce joueur ne dispose pas de suffisamment de défense pour utiliser la pleine puissance de son armure."></picture>
 
-Il est possible d'augmenter la puissance d'une arme ou d'une armure/bouclier en l'améliorant chez un [forgeron](https://guide.crownicles.com/notions-principale/villes-et-maisons#le-forgeron) :hammer\_pick: contre diverses ressources - ce qui augmente ses statistiques jusqu'à +32% au niveau 5, ou en l'enchantant :crystal\_ball:.
+Il est possible d'augmenter la puissance d'une arme ou d'une armure/bouclier en l'améliorant chez un [forgeron](https://guide.crownicles.com/notions-principale/villes-et-maisons#le-forgeron) :hammer\_pick: contre diverses ressources - ce qui augmente ses statistiques jusqu'à +32% au niveau 5, ou en [l'enchantant](https://guide.crownicles.com/notions-avancees/materiaux-et-enchantements#les-enchantements) :crystal\_ball:.
 
 {% hint style="info" %}
 Un équipement trouvé a 5% de chance d'être enchanté, 5% d'être amélioré au niveau 1 et 1% de chance d'être de niveau 2.
